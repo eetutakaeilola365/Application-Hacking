@@ -1,0 +1,52 @@
+# Homework 1
+Tehtävänanto:
+a Tutustu kurssin sanastoon, joka on määritelty SFS-EN ISO/IEC 27000:2020:en standardissa, kappaleessa 3. Terms and Definitions. 
+Selvitä seuraavien kappaleiden määritteet ja selitä omin sanoin mitä ne tarkoittavat: 3.2, 3.31, 3.56, 3.58, 3.77. 
+
+Answer (a):
+##3.2 Definition by ISO-27000:2020
+Attack:
+Attempt to destroy, expose, alter, disable, steal or gain unauthorized access to or make unauthorized
+use of an asset.
+
+My own explanation:
+Basicly this standard means in practice: The information security in the organization needs to be at the level that no one can get unauthorized use of the assets and do anything with them. 
+The standard is created to consider both outsiders and insiders.
+
+##3.31 Definition by ISO-27000:2020
+Information security incident
+single or a series of unwanted or unexpected information security events (3.30) that have a significant
+probability of compromising business operations and threatening information security (3.28)
+
+My own explanation:
+The standard 3.31 means that in organization there might be unnoticed or noticed information security gaps and there havn't been any actions to prevent them.
+If the gaps are breached, then the organization is at risk to lose their advantage towards competitioners.
+If the unexecpted information security events occur there must be fast reactions to correct them and make the harm as minimun as possible. 
+
+##3.56 definition by ISO-27000:2020
+Requirement
+Need or expectation that is stated, generally implied or obligatory
+
+My own explanation:
+Requirements are needs in the organization in order to make organization more secure.
+Through processes and negotiating with the team these requirements are decided and made into reality.
+The importance of the requirements are listed as stated, generally implied or obligatory.
+
+##3.58 definition by ISO-27000:2020
+Review
+Activity undertaken to determine the suitability, adequacy and effectiveness (3.20) of the subject matter
+to achieve established objectives (3.49)
+
+My own explanation:
+In order to decide which actions are need to be made, organization must review different outcomes what the decision provides.
+For example if the organization needs grant access to certain assets, how usefull and adequacy it really is.
+
+##3.77 definition by ISO-27000:2020
+Vulnerability
+Weakness of an asset or control (3.14) that can be exploited by one or more threats (3.74)
+
+My own explanation:
+Vulnerability is a weakness in information security that exists.
+If getting access to crusial information is easy through a loophole and if an attacker is using the loophole, then the organization is at risk.
+
+
