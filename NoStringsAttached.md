@@ -38,3 +38,10 @@ Sain käännettyä kryptisen tekstin nolliksi ja ykkösiksi mutta en saanut enä
 
 ![h3c2](https://github.com/user-attachments/assets/661599d6-6ec8-47e2-9216-a86686eb4aa1)
 
+
+## Lähteet
+https://terokarvinen.com/application-hacking/#laksyt
+www.rapidtables.com 
+https://ioflood.com/blog/install-strings-command-linux/
+https://chatgpt.com/gpts
+
